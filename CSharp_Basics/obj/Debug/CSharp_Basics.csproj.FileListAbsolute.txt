@@ -1,0 +1,7 @@
+C:\Users\amkbh\OneDrive\Documents\CodeWithRicky\CSharp_Learning\CSharp_Basics\bin\Debug\CSharp_Basics.exe.config
+C:\Users\amkbh\OneDrive\Documents\CodeWithRicky\CSharp_Learning\CSharp_Basics\bin\Debug\CSharp_Basics.exe
+C:\Users\amkbh\OneDrive\Documents\CodeWithRicky\CSharp_Learning\CSharp_Basics\bin\Debug\CSharp_Basics.pdb
+C:\Users\amkbh\OneDrive\Documents\CodeWithRicky\CSharp_Learning\CSharp_Basics\obj\Debug\CSharp_Basics.csproj.AssemblyReference.cache
+C:\Users\amkbh\OneDrive\Documents\CodeWithRicky\CSharp_Learning\CSharp_Basics\obj\Debug\CSharp_Basics.csproj.CoreCompileInputs.cache
+C:\Users\amkbh\OneDrive\Documents\CodeWithRicky\CSharp_Learning\CSharp_Basics\obj\Debug\CSharp_Basics.exe
+C:\Users\amkbh\OneDrive\Documents\CodeWithRicky\CSharp_Learning\CSharp_Basics\obj\Debug\CSharp_Basics.pdb
