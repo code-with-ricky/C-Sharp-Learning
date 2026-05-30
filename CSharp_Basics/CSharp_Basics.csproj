@@ -43,9 +43,18 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Basics\Arrays.cs" />
+    <Compile Include="Basics\Conditionals.cs" />
     <Compile Include="Basics\HelloWorldAndOutput.cs" />
+    <Compile Include="Basics\MultiDimensionalArray.cs" />
+    <Compile Include="Basics\Operators.cs" />
     <Compile Include="Basics\UserInput.cs" />
     <Compile Include="Basics\VariablesAndDataType.cs" />
+    <Compile Include="OOPS\ClassesAndObjects\Car.cs" />
+    <Compile Include="OOPS\ClassesAndObjects\ClassesAndObjectDemo.cs" />
+    <Compile Include="OOPS\ClassesAndObjects\Person.cs" />
+    <Compile Include="OOPS\ClassesAndObjects\Student.cs" />
+    <Compile Include="OOPS\ClassesAndObjects\Vehicle.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>

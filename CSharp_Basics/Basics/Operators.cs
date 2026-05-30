@@ -23,6 +23,17 @@ namespace CSharp_Basics.Basics
             int div = sum3 / 4;  // gives quotient
             int remainder = sum3 % 4; // gives remainder
 
+            // assignment operator (=, +=, -=, *=, /=, %=, &=, |=, ^=, >>=, <<=)
+            int x = 10;
+            x = 5;
+
+            // Comparison operators (==, !=, >, <, <=, >=)
+            // return type is boolean (true/false)
+            Console.WriteLine(5 > 3);
+
+            // Logical Operators (&&, ||, !)
+            // return type is boolean
+            Console.WriteLine((5 > 3) && (6 < 10));
         }
     }
 }

@@ -1,4 +1,5 @@
 ﻿using CSharp_Basics.Basics;
+using CSharp_Basics.OOPS.ClassesAndObjects;
 using System; // we can use classes from System namespace
 using System.Collections.Generic;
 using System.Linq;
@@ -27,7 +28,21 @@ namespace CSharp_Basics
             //UserInput.Run();
 
             // File 4: Operators
-            Operators.Run();
+            //Operators.Run();
+
+            //File 5: Conditionals
+            //Conditionals.Run();
+
+            // File 6: Arrays
+            //Arrays.Run();
+
+            // File 7: Multi-dimensional array
+            //MultiDimensionalArray.Run();
+
+
+            // OOPs
+            // File 1: ClassesAndObject
+            ClassesAndObjectDemo.Run();
         }
     }
 }
