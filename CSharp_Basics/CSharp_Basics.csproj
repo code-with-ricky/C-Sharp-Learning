@@ -46,15 +46,24 @@
     <Compile Include="Basics\Arrays.cs" />
     <Compile Include="Basics\Conditionals.cs" />
     <Compile Include="Basics\HelloWorldAndOutput.cs" />
+    <Compile Include="Basics\MethodOverloading.cs" />
+    <Compile Include="Basics\MethodsBasics.cs" />
     <Compile Include="Basics\MultiDimensionalArray.cs" />
     <Compile Include="Basics\Operators.cs" />
     <Compile Include="Basics\UserInput.cs" />
     <Compile Include="Basics\VariablesAndDataType.cs" />
+    <Compile Include="Exception Handling\ExceptionHandlingDemo.cs" />
+    <Compile Include="Exception Handling\ThrowDemo.cs" />
+    <Compile Include="File Handling\FileHandlingDemo.cs" />
     <Compile Include="OOPS\ClassesAndObjects\Car.cs" />
     <Compile Include="OOPS\ClassesAndObjects\ClassesAndObjectDemo.cs" />
     <Compile Include="OOPS\ClassesAndObjects\Person.cs" />
     <Compile Include="OOPS\ClassesAndObjects\Student.cs" />
     <Compile Include="OOPS\ClassesAndObjects\Vehicle.cs" />
+    <Compile Include="OOPS\FourPillars\Abstraction.cs" />
+    <Compile Include="OOPS\FourPillars\InterfacesDemo.cs" />
+    <Compile Include="OOPS\FourPillars\Polymorphism.cs" />
+    <Compile Include="OOPS\Others\EnumsDemo.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
